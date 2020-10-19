@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmaclean" alt="rmaclean" /> </p>
 
+- 🔨 My current tool setup is [documented](https://rmaclean.github.io/developmentEnvironment/)
+
 - 🔭 I’m currently working at [Equal Experts](https://github.com/EqualExperts/)
 
 - 📝 I write articles sometimes at [https://www.sadev.co.za](https://www.sadev.co.za)
