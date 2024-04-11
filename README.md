@@ -2,11 +2,9 @@
 
 ###
 
-<p align="left">With over 20 years of professional experience under his belt, Robert is a seasoned software engineer based in the picturesque city of Cape Town, South Africa. Having served as a technology lead for software teams at @equalexperts, @bbdsoftware, @aws and @Microsoft, he has a proven track record of success in building some of the largest and most complex systems for customers across South Africa and Europe.<br><br>But Robert's impact on the industry extends beyond his professional achievements. As a director of the largest non-profit community for software engineer education in South Africa (@developerug), he is dedicated to fostering the next generation of tech talent. Additionally, as the founder of @DevConfza, the premier community conference for software engineers in South Africa, he brings together like-minded individuals to share knowledge and collaborate on cutting-edge developments.<br><br>In his personal life, Robert is an avid board game enthusiast, owning over 100 different titles. He also enjoys hitting the trails with his beloved dogs and bonding with his son over a friendly game of Xbox.</p>
+<p align="left">With over 20 years of professional experience under his belt, Robert is a seasoned software engineer based in the picturesque city of Cape Town, South Africa. Having served as a technology lead for software teams at @equalexperts, @bbdsoftware, @aws and @Microsoft, he has a proven track record of successfully building some of the largest and most complex systems for customers across South Africa and Europe.<br><br>But Robert's impact on the industry extends beyond his professional achievements. As a director of the largest non-profit community for software engineer education in South Africa (@developerug), he is dedicated to fostering the next generation of tech talent. Additionally, as the founder of @DevConfza, the premier community conference for software engineers in South Africa, he brings together like-minded individuals to share knowledge and collaborate on cutting-edge developments.<br><br>In his personal life, Robert is an avid board game enthusiast, owning over 100 different titles. He also enjoys hitting the trails with his beloved dogs and bonding with his son over a friendly game of Xbox.</p>
 
 - 🔨 My current tool setup is [documented](https://rmaclean.github.io/developmentEnvironment/)
-
-- 🔭 I’m currently working at [Equal Experts](https://github.com/EqualExperts/)
 
 - 📝 I write articles sometimes at [https://www.sadev.co.za](https://www.sadev.co.za)
 
