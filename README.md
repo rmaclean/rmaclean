@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">With over 20 years of professional experience under his belt, Robert is a seasoned software engineer based in the picturesque city of Cape Town, South Africa. Having served as a technology lead for software teams at @equalexperts, @bbdsoftware, @aws and @Microsoft, he has a proven track record of successfully building some of the largest and most complex systems for customers across South Africa and Europe.<br><br>But Robert's impact on the industry extends beyond his professional achievements. As a director of the largest non-profit community for software engineer education in South Africa (@developerug), he is dedicated to fostering the next generation of tech talent. Additionally, as the founder of @DevConfza, the premier community conference for software engineers in South Africa, he brings together like-minded individuals to share knowledge and collaborate on cutting-edge developments.<br><br>In his personal life, Robert is an avid board game enthusiast, owning over 100 different titles. He also enjoys hitting the trails with his beloved dogs and bonding with his son over a friendly game of Xbox.</p>
+<p align="left">With over 25 years of professional experience under his belt, Robert is a seasoned software engineer based in the picturesque city of Cape Town, South Africa. Having served as a technology lead for software teams at @adgio, @equalexperts, @bbdsoftware, @aws and @Microsoft, he has a proven track record of successfully building some of the largest and most complex systems for customers across South Africa and Europe.<br><br>But Robert's impact on the industry extends beyond his professional achievements. As a director of the largest non-profit community for software engineer education in South Africa (@developerug), he is dedicated to fostering the next generation of tech talent. Additionally, as the founder of @DevConfza, the premier community conference for software engineers in South Africa, he brings together like-minded individuals to share knowledge and collaborate on cutting-edge developments.<br><br>In his personal life, Robert is an avid board game enthusiast, owning over 100 different titles. He also enjoys hitting the trails with his beloved dogs and bonding with his son over a friendly game of Xbox.</p>
 
 - 🔨 My current tool setup is [documented](https://rmaclean.github.io/developmentEnvironment/)
 
@@ -15,11 +15,6 @@
 - ⚡ Fun fact **I have almost 100 board games**
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=rmaclean" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=rmaclean" height="150" alt="languages graph"  />
-</div>
 
 <div align="left">
   <a href="mailto:robert@sadev.co.za" target="_blank">
@@ -37,13 +32,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/rmaclean/rmaclean/blob/output/snake.svg" alt="Snake animation" />
-
 ###
 
-###
-
-<div align="left">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="42" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
