@@ -7,7 +7,7 @@
 </p>
 
 ## 📌 About Me
-- With a career spanning 25 years and leadership roles at Microsoft and AWS, Robert MacLean specializes in the architecture behind complex systems for customers across South Africa, Europe, the Middle East, and the USA. Beyond his professional work, he has spent over a decade fostering the local tech ecosystem as the founder of DevConf and a director of The South African Developer User Group. Robert lives in Cape Town, where he spends his free time following F1 technical developments, collecting Lego, and staying active through running and hiking.
+With a career spanning 25 years and leadership roles at Microsoft and AWS, Robert MacLean specializes in the architecture behind complex systems for customers across South Africa, Europe, the Middle East, and the USA. Beyond his professional work, he has spent over a decade fostering the local tech ecosystem as the founder of DevConf and a director of The South African Developer User Group. Robert lives in Cape Town, where he spends his free time following F1 technical developments, collecting Lego, and staying active through running and hiking.
 
 
 ## 📊 GitHub Stats & Trophies
